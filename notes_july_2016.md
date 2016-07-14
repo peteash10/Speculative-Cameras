@@ -1,4 +1,4 @@
-# Notes from my wall
+# Notes from my studio wall
 
 Vernacular Photography looks to the future. Professional photography is obsessed with the past. 
 
