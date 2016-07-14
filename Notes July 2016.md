@@ -1,4 +1,4 @@
-Notes from my wall
+# Notes from my wall
 
 Vernacular Photography looks to the future. Professional photography is obsessed with the past. 
 
@@ -32,7 +32,7 @@ Developments in photography are historically driven by commercial and industrial
 
 Commercial developments lead to aesthetic and social developments. Front-facing camera for video-calling lead to selfies. 
 
-<u>The Process of Photography</u>
+**The Process of Photography**
 
 - Commercial / Industrial 
 - Camera Apparatus
@@ -45,7 +45,7 @@ Commercial developments lead to aesthetic and social developments. Front-facing 
 - Exhibition Context
 - Viewer
 
-<u>Ways to Capture</u>
+**Ways to Capture**
 
 Quantitative:
 
@@ -61,7 +61,7 @@ Qualitative:
 - Ideas
 - ?
  
-**POWER**
+## POWER
 
 *Some notes on power in photography, in no particular order*
 
@@ -99,9 +99,7 @@ Control of cameras themselves
 - How are public cameras controlled? 
 - How are private cameras controlled? 
  
-
- 
-<u>Making political camera art</u>
+**Making political camera art**
 
 Target professionalism. Corrupt authority. 
 
