@@ -14,4 +14,8 @@ Adam Magyar - Makes own cameras. Slitscanning.
 
 James George / Alexander Porter - Depthkit. Kinect hacking. Speculative cameras. 
 
+## As Activisits / Political thinkers
+
+[Laura Oldfield Ford](http://lauraoldfieldford.blogspot.co.uk) - Psychogeography as political tool. 
+
 
