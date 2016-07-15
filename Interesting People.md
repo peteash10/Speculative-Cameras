@@ -18,5 +18,5 @@ James George / Alexander Porter - Depthkit. Kinect hacking. Speculative cameras.
 
 [Laura Oldfield Ford](http://lauraoldfieldford.blogspot.co.uk) - Psychogeography as political tool. 
 
-[James Bridle[(http://booktwo.org) - Drones, making the invisible visible. 
+[James Bridle](http://booktwo.org) - Drones, making the invisible visible. 
 
